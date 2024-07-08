@@ -102,27 +102,26 @@
 <tr align="center">
 <th>메인 페이지</th>
 <th>검색 페이지</th>
-<th></th>
 </tr>
 <tr>
-<td><img width="450px" src="https://github.com/project-hype/.github/assets/72301213/5b0b269b-d91d-4556-9626-5e4542cc6a58"/></td>
-<td><img width="450px" src="https://github.com/project-hype/.github/assets/72301213/9ae0bddf-941e-4ae6-830f-ccd18c011b11"/></td>
+<td><img width="350px" src="https://github.com/project-hype/.github/assets/72301213/5b0b269b-d91d-4556-9626-5e4542cc6a58"/></td>
+<td><img width="350px" src="https://github.com/project-hype/.github/assets/72301213/9ae0bddf-941e-4ae6-830f-ccd18c011b11"/></td>
 </tr>
 <tr align="center">
 <th>상세페이지</th>
 <th>마이페이지</th>
 </tr>
 <tr>
-<td><img width="450px" src="https://github.com/project-hype/.github/assets/72301213/5bc88de9-e3ff-4b3d-800e-1aa8da8f98f3"/></td>
-<td><img width="450px" src="https://github.com/project-hype/.github/assets/72301213/819f2d93-d339-424e-9ecb-769964e0ff64"/></td>
+<td><img width="350px" src="https://github.com/project-hype/.github/assets/72301213/5bc88de9-e3ff-4b3d-800e-1aa8da8f98f3"/></td>
+<td><img width="350px" src="https://github.com/project-hype/.github/assets/72301213/819f2d93-d339-424e-9ecb-769964e0ff64"/></td>
 </tr>
 <tr align="center">
 <th>회원가입/로그인</th>
 <th>관리자 페이지</th>
 </tr>
 <tr>
-<td><img width="450px" src="https://github.com/project-hype/.github/assets/72301213/57e9ec70-7de4-4dc5-9b05-593461596202"/></td>
-<td><img width="450px" src="https://github.com/project-hype/.github/assets/72301213/d43432f4-dc36-45fc-8dcd-f09ebb9939ec"/></td>
+<td><img width="350px" src="https://github.com/project-hype/.github/assets/72301213/57e9ec70-7de4-4dc5-9b05-593461596202"/></td>
+<td><img width="350px" src="https://github.com/project-hype/.github/assets/72301213/d43432f4-dc36-45fc-8dcd-f09ebb9939ec"/></td>
 </tr>
 </table>
 </div>
