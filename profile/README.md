@@ -49,15 +49,26 @@
 
 
 <div align="center">
-팀명 : Devjeans(4팀)
-<br>
-  
-| 조영욱 | 임원정 | 정은지 |
-| --- | --- | --- |
-| <img style="width:200px; height:200px;" src="https://github.com/project-hype/hype-react/assets/73675222/9e85a7b9-421f-49d6-9847-a2fd4a29f5a2" /> | <img style="width:200px; height:200px;" src="https://github.com/project-hype/hype-spring/assets/128574107/a62e727a-5412-4400-8aae-c76672af3c3d" /> | <img style="width:200px; height:200px;" src="https://github.com/project-hype/hype-react/assets/73675222/e71cff63-de78-4933-9cee-9e2213bf3a28" /> |
-| <a href="https://github.com/choyeongwook">@choyeongwook</a> | <a href="https://github.com/wj0624">@wj0624</a> | <a href="https://github.com/eunjeeing">@eunjeeing</a> |
-
+  <p>팀명 : Devjeans(4팀)</p>
+  <table>
+    <tr align="center">
+      <th>조영욱</th>
+      <th>임원정</th>
+      <th>정은지</th>
+    </tr>
+    <tr align="center">
+      <td><img style="width:200px; height:200px;" src="https://github.com/project-hype/hype-react/assets/73675222/9e85a7b9-421f-49d6-9847-a2fd4a29f5a2" /></td>
+      <td><img style="width:200px; height:200px;" src="https://github.com/project-hype/hype-spring/assets/128574107/a62e727a-5412-4400-8aae-c76672af3c3d" /></td>
+      <td><img style="width:200px; height:200px;" src="https://github.com/project-hype/hype-react/assets/73675222/e71cff63-de78-4933-9cee-9e2213bf3a28" /></td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/choyeongwook" style="text-align: center;">@choyeongwook</a></td>
+      <td><a href="https://github.com/wj0624" style="text-align: center;">@wj0624</a></td>
+      <td><a href="https://github.com/eunjeeing" style="text-align: center;">@eunjeeing</a></td>
+    </tr>
+  </table>
 </div>
+
 <br>
 
 ## 🔧 기술스택
